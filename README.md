@@ -14,4 +14,4 @@ The network is visualized using [Bokeh](https://bokeh.org/) and is available
 
 ## Developers
 
-Dr. Feichen Shen's team: David Oniani and [Dr. Feichen Shen](https://www.mayo.edu/research/faculty/shen-feichen-ph-d/bio-20238745).
+Dr. Feichen Shen's COVID-19 research team: David Oniani and [Dr. Feichen Shen](https://www.mayo.edu/research/faculty/shen-feichen-ph-d/bio-20238745).
