@@ -1,4 +1,4 @@
-# covid-19-network
+# covid-19-network-embeddings
 
 ## Table of Contents
 
