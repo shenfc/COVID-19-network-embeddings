@@ -7,9 +7,10 @@ We constructed network embeddings for COVID-19 by applying the node2vec model ov
 The network is visualized using [Bokeh](https://bokeh.org/) and is available
 [here: https://www.davidoniani.com/covid-19-network](https://www.davidoniani.com/covid-19-network).
 
-## Developers and Collaborators
+## Developers
 
 Dr. Feichen Shen's COVID-19 research team: David Oniani and [Dr. Feichen Shen](https://www.mayo.edu/research/faculty/shen-feichen-ph-d/bio-20238745).
+
 __Collaborators__
 
 Dr. Guoqian Jiang and Dr. Hongfang Liu
