@@ -2,10 +2,6 @@
 # encoding: UTF-8
 
 """
-Filename: generate_edges_features_data.py
-Author:   David Oniani
-E-mail:   oniani.david@mayo.edu
-
 Description:
     Build edges and features data files to then create a matrix.
 """
