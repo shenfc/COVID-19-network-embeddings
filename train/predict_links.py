@@ -6,6 +6,7 @@ Authors:   David Oniani, Feichen Shen
 
 Description:
     Use node2vec for link prediction.
+    Logistic Regression was used in this example, different classification algorithms could be used here (e.g., Random Forest, Decision Tree, SVM, MLP, Naive Bayes, 
 """
 
 import os
