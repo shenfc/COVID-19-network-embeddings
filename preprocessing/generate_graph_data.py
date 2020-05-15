@@ -2,10 +2,6 @@
 # encoding: UTF-8
 
 """
-Filename: generate_graph_data.py
-Author:   David Oniani
-E-mail:   oniani.david@mayo.edu
-
 Description:
     Build a graph (CSV file) out of CSV file.
 """
