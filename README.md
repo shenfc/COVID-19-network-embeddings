@@ -11,8 +11,15 @@ We constructed network embeddings for COVID-19 by applying the node2vec model ov
 The network is visualized using [Bokeh](https://bokeh.org/) and is available
 [here: https://www.davidoniani.com/covid-19-network](https://www.davidoniani.com/covid-19-network).
 
+## Developers
 
-__References__
+Dr. Feichen Shen's COVID-19 research team: David Oniani and [Dr. Feichen Shen](https://www.mayo.edu/research/faculty/shen-feichen-ph-d/bio-20238745).
+
+__Code References__
+
+1. Original node2vec: Aditya Grover and Jure Leskovec. https://github.com/aditya-grover/node2vec
+
+2. Implementation of node2vec: https://github.com/lucashu1/link-prediction
 
 @misc{lucas_hu_2018_1408472,
    author       = {Lucas Hu and
@@ -26,6 +33,3 @@ __References__
    url          = {https://doi.org/10.5281/zenodo.1408472}
 }
 
-## Developers
-
-Dr. Feichen Shen's COVID-19 research team: David Oniani and [Dr. Feichen Shen](https://www.mayo.edu/research/faculty/shen-feichen-ph-d/bio-20238745).
