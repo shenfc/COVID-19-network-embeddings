@@ -2,7 +2,7 @@
 # encoding: UTF-8
 
 """
-Author:   David Oniani, Feichen Shen
+Authors:   David Oniani, Feichen Shen
 
 Description:
     Create a pickle file for use in node2vec.
