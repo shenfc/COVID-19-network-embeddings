@@ -1,7 +1,7 @@
 # encoding: UTF-8
 
 """
-Author:   David Oniani, Feichen Shen
+Authors:   David Oniani, Feichen Shen
 
 Description:
     Build edges and features data files to then create a matrix.
