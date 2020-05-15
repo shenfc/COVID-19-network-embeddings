@@ -2,6 +2,8 @@
 # encoding: UTF-8
 
 """
+Authors:   David Oniani, Feichen Shen
+
 Description:
     Use node2vec for link prediction.
 """
