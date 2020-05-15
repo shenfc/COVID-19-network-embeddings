@@ -15,6 +15,10 @@ The network is visualized using [Bokeh](https://bokeh.org/) and is available
 
 Dr. Feichen Shen's COVID-19 research team: David Oniani and [Dr. Feichen Shen](https://www.mayo.edu/research/faculty/shen-feichen-ph-d/bio-20238745).
 
+## Collaborators
+
+Dr. Guoqian Jiang and Dr. Hongfang Liu
+
 __Code References__
 
 1. Original node2vec: Aditya Grover and Jure Leskovec. https://github.com/aditya-grover/node2vec
