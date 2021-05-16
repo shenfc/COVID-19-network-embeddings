@@ -15,7 +15,9 @@ __Collaborators__
 
 Dr. Guoqian Jiang and Dr. Hongfang Liu
 
-__Code References__
+<!--
+
+You can't see this:__Code References__
 
 1. Original node2vec: Aditya Grover and Jure Leskovec. https://github.com/aditya-grover/node2vec
 
@@ -33,3 +35,4 @@ __Code References__
    url          = {https://doi.org/10.5281/zenodo.1408472}
 }
 
+ -->
